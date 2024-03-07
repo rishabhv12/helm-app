@@ -1,0 +1,6 @@
+---
+releases:
+
+  - name: weather-app
+    chart: ./WEATHER-APP-PROJECT/helm-app
+    installed: true 
